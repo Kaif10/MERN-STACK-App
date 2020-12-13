@@ -1,8 +1,8 @@
 ## Shopping-list App
 
-A simple webapp to keep track of your shopping list items using the fundamentals of the MERN Stack.
+A simple Shopping list webapp built with the MERN stack along with Redux for state management, Reactstrap and react-transition-group to keep track of your shopping list items.
 
-**Quick Start**
+ **Quick Start**
 
 ```
 # Install dependencies for server
