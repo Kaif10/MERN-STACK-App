@@ -4,9 +4,11 @@
 
 A simple Shopping list webapp built with the MERN stack along with Redux for state management, Reactstrap and react-transition-group to keep track of your shopping list items.
 
- **Quick Start**
+ **A Quick Start**
 
 ```
+
+
 # Install dependencies for server
 npm install
 
@@ -22,7 +24,7 @@ npm run server
 # Run the React client only
 npm run client
 
-# Server runs on http://localhost:5000 and client on http://localhost:3000
+# Back-end Server (Node/Express) runs on http://localhost:5000 and front-end client which is built with React and Redux on http://localhost:3000
 
 ```
 
